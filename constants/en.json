@@ -1,0 +1,181 @@
+{
+  "greeting": "Hello!",
+
+  "pages": {
+    "Pesquisar": "Search",
+    "Ajuda": "Help",
+    "Perfil": "Profile",
+    "Notificações": "Notifications",
+    "Preferencias": "Preferences",
+    "Sobre a Revista": "About the Journal",
+    "Início": "Home",
+    "Favoritos": "Favorites",
+    "Ajustes": "Settings",
+    "artigo": "Article",
+    "artigos": "Articles",
+    "Sobre o APP": "About"
+  },
+
+  "inicio": {
+    "Número atual": "Current Issue",
+    "Ler": "Read",
+    "Números anteriores": "Previous Issues"
+  },
+
+  "pesquisa": {
+    "Buscar": "Search"
+  },
+
+  "ajuda": {
+    "Contato para ajuda/suporte": "Contacts",
+    "Tutorial para o usuário": "Tutorial",
+    "Contato Principal": "Editorial Office",
+    "Elisiane Lorenzini - Editor-chefe": "Anna Khris Furtado Dutra",
+    "Universidade Federal de Santa Catarina": "Federal University of Santa Catarina",
+    "(UFSC)": "(UFSC)",
+    "Contato para Suporte Técnico": "Editor-in-Chief",
+    "Anna Khris Furtado Dutra": "Elisiane Lorenzini",
+    "editorial": "Editorial",
+    "Telefone da Revista": "Journal's Phone Number",
+    "Saiba mais": "Learn more here"
+  },
+
+  "cadastro": {
+    "Nome": "Name",
+    "Senha": "Password",
+    "Confirmar Senha": "Confirm Password",
+    "CADASTRAR": "REGISTER"
+  },
+
+  "interesses": {
+    "Qual sua área de interesse?": "Select your area of interest",
+    "Pesquisar descritores...": "Search descriptors..."
+  },
+
+  "login": {
+    "texto1": "Login with your account. If you don't have one yet,",
+    "Cadastre-se": "Sign up",
+    "Senha": "Password",
+    "texto2": "Would you like to receive a notification when a new article in your area of interest is published?",
+    "Notificações": "Notifications",
+    "ENTRAR": "LOGIN",
+    "forgot_your_password": "Forgot your password?"
+  },
+
+  "preferencias": {
+    "IDIOMA DE LEITURA PREFERENCIAL": "PREFERRED READING LANGUAGE",
+    "texto1": "Sets the preferred language used for reading articles. By default, the device language is used.",
+    "Idioma": "Language",
+    "Modo de Leitura": "Reading Mode",
+    "texto2": "Enables or disables night mode for reading the full text of the article. It is possible to disable the light mode during reading.",
+    "Modo": "Mode",
+    "escuro": "dark",
+    "claro": "light",
+    "Tamanho da fonte": "Font size",
+    "texto3": "Sets the font size for reading the full text of the article. It is possible to change the size during reading.",
+    "SAIR": "LOG OUT",
+    "ENTRAR": "LOG IN",
+    "english": "english",
+    "spanish": "spanish",
+    "portuguese": "portuguese"
+  },
+
+  "sobre": {
+    "Informações": "Information",
+    "issn": "E-ISSN: 1980-265X.",
+    "texto1": "Journal of the Graduate Program in Nursing at the Federal University of Santa Catarina. Created in 1992, it is open access and online.",
+    "Objetivo e Escopo": "Objective and Scope",
+    "texto2": "It is an international circulation journal. It publishes technical-scientific articles related to the Health area and, in particular, Nursing, with access in Portuguese, English, or Spanish, with one of the article versions obligatorily in English.",
+    "Missão": "Mission",
+    "texto3": "Disseminates the production of scientific and technological knowledge in health and nursing, valuing the quality of research and the improvement of Health Sciences.",
+    "Publicação indexada em": "Publication indexed in",
+    "Métricas": "Metrics",
+    "Saiba Mais": "Learn more here"
+  },
+
+  "ArticleList": {
+    "Title": "Title:",
+    "Publication Date": "Publication Date",
+    "error": "Failed to fetch articles. Please try again later.",
+    "Retry": "Retry"
+  },
+
+  "Leitura": {
+    "Data de Publicação": "Publication Date",
+    "alerta": "The app needs storage access to download files.",
+    "buttonNeutral": "Ask me later",
+    "buttonNegative": "Cancel",
+    "title": "Storage Permission",
+    "negada.": "Storage permission denied."
+  },
+
+
+  "tutorial": {
+    "slide1": {
+      "title": "Welcome to the Texto & Contexto Enfermagem App",
+      "text": "Discover new features and resources. In this tab, articles are separated by year of publication. In the upper left corner is the search function. In the upper right corner are the notifications."
+    },
+    "slide2": {
+      "title": "Save your favorite articles",
+      "text": "The star button allows you to save articles as favorites for easy access or to save for later reading."
+    },
+    "slide3": {
+      "title": "Explore Content",
+      "text": "Customize your preferences, discover more about Texto & Contexto Enfermagem. If you have issues with the app, don't hesitate to ask for help or access the tutorial again. Adjust the app according to your preferences and learn more about the developers."
+    },
+    "slide4": {
+      "title": "Explore the available content of each article",
+      "text": "When selecting the desired article, the available information will be displayed: document type, publication date, authors, descriptors, and the article's abstract. Below, you can return to the home screen, favorite the article if you are registered in the app, share, read the PDF within the app, read on the official SciELO website, or download the article if you wish."
+    },
+    "slide5": {
+      "title": "Search",
+      "text": "By pressing the magnifying glass in the upper left corner of the screen, you will have access to the search tool, being able to choose between 4 forms of sorting. Search by keywords or title."
+    },
+    "slide6": {
+      "title": "Notifications",
+      "text": "By selecting your topics of interest in the interests tab, you will receive notifications whenever an article with the respective keyword is added."
+    },
+    "slide7": {
+      "title": "Interests",
+      "text": "Select your preferred themes. If selected during registration, you will receive notifications when an article with a compatible theme is added."
+    },
+    "slide8": {
+      "title": "Adjust your experience",
+      "text": "Adjust your experience in the Preferences tab. Change the language to the desired one if it is not already set, or change the font size for a more comfortable experience."
+    },
+    "finishButton": "Finish Tutorial"
+  },
+
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "email": "Enter your email",
+    "success": "Email sent successfully",
+    "error": "Error sending email",
+    "submit": "Send"
+  },
+
+  "password_reset": {
+    "title": "Reset Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "password_mismatch": "Passwords do not match",
+    "success": "Password reset successfully",
+    "error": "Error resetting password",
+    "code": "Enter the code sent to your email",
+    "submit": "Reset Password"
+  },
+  "SobreA": {
+  "Time": "Development Team",
+  "Autora": "Application developed within the scope of the FAPESC notice n° 21/2022 - Program to support and encourage the consolidation of scientific journals and the Notice nº 7/2023/PROEX/UFSC - PROBOLSAS 2024 Project - Knowledge Translation for the Advancement of Practices in Health and Nursing. Project Coordination: Prof. Dr. Elisiane Lorenzini",
+  "Consultor": "Prototype: Master's Dissertation, Author: Marinalda da Silva Bonelli",
+  "Desenvolvedor": "App developer: Lucas Cabral de Oliveira Ferreira",
+  "Agradecimentos": "We thank the stakeholders, editorial team of the Journal Texto & Contexto Enfermagem and PEN/UFSC Management 2021-2025.",
+  "Versão do App": "App Version"
+},
+"Favoritos": {
+  "Antigos": "Old",
+  "Novos": "New",
+  "Recentemente Adicionados": "Recently Added",
+  "Últimos Adicionados": "Last Added"
+}
+}

@@ -1,24 +1,28 @@
 {
   "expo": {
-    "name": "App_tce",
-    "slug": "App_tce",
+    "name": "App TCE",
+    "slug": "App TCE",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/Logo-fogo1X.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/images/fogo-TCE.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.textoecontexto.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"

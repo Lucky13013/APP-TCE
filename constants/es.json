@@ -1,0 +1,179 @@
+{
+  "greeting": "¡Hola!",
+
+  "pages": {
+    "Pesquisar": "Buscar",
+    "Ajuda": "Ayuda",
+    "Perfil": "Perfil",
+    "Notificações": "Notificaciones",
+    "Preferencias": "Preferencias",
+    "Sobre a Revista": "Sobre la Revista",
+    "Início": "Inicio",
+    "Favoritos": "Favoritos",
+    "Ajustes": "Configuraciones",
+    "artigo": "Artículo",
+    "artigos": "Artículos",
+    "Sobre o APP": "Sobre"
+  },
+
+  "inicio": {
+    "Número atual": "Número actual",
+    "Ler": "Leer",
+    "Números anteriores": "Números anteriores"
+  },
+
+  "pesquisa": {
+    "Buscar": "Buscar"
+  },
+
+  "ajuda": {
+    "Contato para ajuda/suporte": "Contactos",
+    "Tutorial para o usuário": "Tutorial",
+    "Contato Principal": "Oficina Editorial",
+    "Elisiane Lorenzini - Editor-chefe": "Anna Khris Furtado Dutra",
+    "Universidade Federal de Santa Catarina": "Universidad Federal de Santa Catarina",
+    "(UFSC)": "(UFSC)",
+    "Contato para Suporte Técnico": "Editor en Jefe",
+    "Anna Khris Furtado Dutra": "Elisiane Lorenzini",
+    "editorial": "Editorial",
+    "Telefone da Revista": "Teléfono de la Revista",
+    "Saiba mais": "Más información aquí"
+  },
+
+  "cadastro": {
+    "Nome": "Nombre",
+    "Senha": "Contraseña",
+    "Confirmar Senha": "Confirmar Contraseña",
+    "CADASTRAR": "REGISTRARSE"
+  },
+
+  "interesses": {
+    "Qual sua área de interesse?": "Seleccione su área de interés",
+    "Pesquisar descritores...": "Buscar descriptores..."
+  },
+
+  "login": {
+    "texto1": "Inicie sesión con su cuenta. Si aún no tiene una,",
+    "Cadastre-se": "Regístrese",
+    "Senha": "Contraseña",
+    "texto2": "¿Desea recibir una notificación cuando se publique un nuevo artículo en su área de interés?",
+    "Notificações": "Notificaciones",
+    "ENTRAR": "INICIAR SESIÓN",
+    "forgot_your_password": "¿Olvidaste tu contraseña?"
+  },
+
+  "preferencias": {
+    "IDIOMA DE LEITURA PREFERENCIAL": "IDIOMA PREFERIDO PARA LECTURA",
+    "texto1": "Establece el idioma preferido para leer los artículos. De forma predeterminada, se usa el idioma del dispositivo.",
+    "Idioma": "Idioma",
+    "Modo de Leitura": "Modo de Lectura",
+    "texto2": "Habilita o deshabilita el modo nocturno para leer el texto completo del artículo. Es posible deshabilitar el modo claro durante la lectura.",
+    "Modo": "Modo",
+    "escuro": "oscuro",
+    "claro": "claro",
+    "Tamanho da fonte": "Tamaño de la fuente",
+    "texto3": "Establece el tamaño de fuente para leer el texto completo del artículo. Es posible cambiar el tamaño durante la lectura.",
+    "SAIR": "CERRAR SESIÓN",
+    "ENTRAR": "INICIAR SESIÓN",
+    "english": "inglés",
+    "spanish": "español",
+    "portuguese": "portugués"
+  },
+
+  "sobre": {
+    "Informações": "Información",
+    "issn": "E-ISSN: 1980-265X.",
+    "texto1": "Revista del Programa de Posgrado en Enfermería de la Universidad Federal de Santa Catarina. Creada en 1992, es de acceso abierto y en línea.",
+    "Objetivo e Escopo": "Objetivo y Alcance",
+    "texto2": "Es una revista de circulación internacional. Publica artículos técnico-científicos relacionados con el área de Salud y, en particular, con la Enfermería, con acceso en portugués, inglés o español, con una de las versiones del artículo obligatoriamente en inglés.",
+    "Missão": "Misión",
+    "texto3": "Difunde la producción de conocimiento científico y tecnológico en salud y enfermería, valorando la calidad de la investigación y la mejora de las Ciencias de la Salud.",
+    "Publicação indexada em": "Publicación indexada en",
+    "Métricas": "Métricas",
+    "Saiba Mais": "Más información aquí"
+  },
+
+  "ArticleList": {
+    "Title": "Título:",
+    "Publication Date": "Fecha de Publicación",
+    "error": "No se pudo obtener los artículos. Por favor, inténtelo de nuevo más tarde.",
+    "Retry": "Reintentar"
+  },
+
+  "Leitura": {
+    "Data de Publicação": "Fecha de Publicación",
+    "alerta": "La aplicación necesita acceso al almacenamiento para descargar archivos.",
+    "buttonNeutral": "Pregúntame más tarde",
+    "buttonNegative": "Cancelar",
+    "title": "Permiso de Almacenamiento",
+    "negada.": "Permiso de almacenamiento denegado."
+  },
+  "tutorial": {
+    "slide1": {
+      "title": "Bienvenido a la App Texto & Contexto Enfermagem",
+      "text": "Descubra nuevas funciones y recursos. En esta pestaña, los artículos están separados por año de publicación. En la esquina superior izquierda está la función de búsqueda. En la esquina superior derecha están las notificaciones."
+    },
+    "slide2": {
+      "title": "Guarda tus artículos favoritos",
+      "text": "El botón de estrella te permite guardar artículos como favoritos para un fácil acceso o para leer más tarde."
+    },
+    "slide3": {
+      "title": "Explorar Contenido",
+      "text": "Personaliza tus preferencias, descubre más sobre Texto & Contexto Enfermagem. Si tienes problemas con la app, no dudes en pedir ayuda o acceder al tutorial nuevamente. Ajusta la app según tus preferencias y aprende más sobre los desarrolladores."
+    },
+    "slide4": {
+      "title": "Explora el contenido disponible de cada artículo",
+      "text": "Al seleccionar el artículo deseado, se mostrará la información disponible: tipo de documento, fecha de publicación, autores, descriptores y el resumen del artículo. A continuación, puedes volver a la pantalla de inicio, marcar el artículo como favorito si estás registrado en la app, compartir, leer el PDF dentro de la app, leer en el sitio oficial de SciELO o descargar el artículo si lo deseas."
+    },
+    "slide5": {
+      "title": "Búsqueda",
+      "text": "Presionando la lupa en la esquina superior izquierda de la pantalla, tendrás acceso a la herramienta de búsqueda, pudiendo elegir entre 4 formas de ordenar. Buscar por palabras clave o título."
+    },
+    "slide6": {
+      "title": "Notificaciones",
+      "text": "Al seleccionar tus temas de interés en la pestaña de intereses, recibirás notificaciones cada vez que se agregue un artículo con la respectiva palabra clave."
+    },
+    "slide7": {
+      "title": "Intereses",
+      "text": "Selecciona tus temas preferidos. Si se seleccionan durante el registro, recibirás notificaciones cuando se agregue un artículo con un tema compatible."
+    },
+    "slide8": {
+      "title": "Ajusta tu experiencia",
+      "text": "Ajusta tu experiencia en la pestaña de Preferencias. Cambia el idioma al deseado si no está ya configurado, o cambia el tamaño de la fuente para una experiencia más cómoda."
+    },
+    "finishButton": "Finalizar Tutorial"
+  },
+
+  "forgotPassword": {
+    "title": "Olvidó su Contraseña",
+    "email": "Ingrese su correo electrónico",
+    "success": "Correo enviado con éxito",
+    "error": "Error al enviar el correo",
+    "submit": "Enviar"
+  },
+
+  "password_reset": {
+    "title": "Restablecer Contraseña",
+    "new_password": "Nueva Contraseña",
+    "confirm_password": "Confirmar Contraseña",
+    "password_mismatch": "Las contraseñas no coinciden",
+    "success": "Contraseña restablecida con éxito",
+    "error": "Error al restablecer la contraseña",
+    "code": "Ingrese el código enviado a su correo electrónico",
+    "submit": "Restablecer Contraseña"
+  },
+  "SobreA": {
+  "Time": "Equipo de Desarrollo",
+  "Autora": "Aplicación desarrollada en el ámbito del aviso FAPESC n° 21/2022 - Programa de apoyo y fomento a la consolidación de revistas científicas y del Aviso n° 7/2023/PROEX/UFSC - PROBOLSAS 2024 Proyecto - Traducción del Conocimiento para el Avance de las Prácticas en Salud y Enfermería. Coordinación del proyecto: Profa. Dra. Elisiane Lorenzini",
+  "Consultor": "Prototipo: Disertación de Maestría, Autora: Marinalda da Silva Bonelli",
+  "Desenvolvedor": "Desarrollador de la app: Lucas Cabral de Oliveira Ferreira",
+  "Agradecimentos": "Agradecemos a los interesados, al equipo editorial de la Revista Texto & Contexto Enfermagem y a la Gestión PEN/UFSC 2021-2025.",
+  "Versão do App": "Versión de la App"
+},
+"Favoritos": {
+  "Antigos": "Antiguos",
+  "Novos": "Nuevos",
+  "Recentemente Adicionados": "Recientemente Agregados",
+  "Últimos Adicionados": "Últimos Agregados"
+}
+}

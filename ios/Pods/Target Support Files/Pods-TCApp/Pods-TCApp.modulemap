@@ -1,0 +1,6 @@
+module Pods_TCApp {
+  umbrella header "Pods-TCApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
